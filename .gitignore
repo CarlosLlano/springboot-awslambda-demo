@@ -8,3 +8,4 @@
 *.zip
 .idea/*
 .checkstyle
+.DS_Store
